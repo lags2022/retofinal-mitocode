@@ -1,0 +1,21 @@
+# Ignorar el archivo application.properties
+application.properties
+
+# Ignorar directorios de compilación
+target/
+build/
+
+# Ignorar archivos y directorios específicos de IDE
+.idea/
+.vscode/
+*.iml
+
+# Ignorar archivos de control de versiones
+.git/
+.gitignore
+
+# Ignorar archivos temporales o de caché
+*.log
+*.tmp
+.DS_Store
+*.swp
